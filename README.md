@@ -24,5 +24,5 @@ Links:
     Anton Paris
     Alexander Bruun
     Pierluigi Margarito
-    Leart Sedjiu
+    Leart Sejdiu
     
